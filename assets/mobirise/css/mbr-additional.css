@@ -1,0 +1,280 @@
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+@import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700);
+@import url(https://fonts.googleapis.com/css?family=Bitter:400,700);
+
+
+#dropdown-menu-1y .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-1y .nav .link,
+#dropdown-menu-1y .dropdown-item {
+  font-size: 1em;
+  color: #000000;
+}
+#dropdown-menu-1y .navbar,
+#dropdown-menu-1y .dropdown-menu {
+  background: #ffffff;
+}
+#dropdown-menu-1y .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-1y .dropdown-menu a:hover,
+#dropdown-menu-1y .dropdown-menu a:focus {
+  background: #f5f5f5;
+}
+#dropdown-menu-1y .navbar-toggler {
+  color: #000000;
+}
+#dropdown-menu-1y A {
+  font-family: 'Oswald', sans-serif;
+}
+#header1-h H1 {
+  color: #ffffff;
+  font-family: 'Montserrat', sans-serif;
+}
+#slider-3 H2 {
+  color: #ffffff;
+  text-align: center;
+}
+#slider-3 P {
+  color: #ffffff;
+}
+#content5-i P {
+  font-size: 14px;
+}
+
+
+#menu-w .navbar-toggler {
+  color: #5bc0de;
+}
+#menu-w .navbar-brand {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 24px;
+}
+#menu-w .nav-link {
+  font-family: 'Oswald', sans-serif;
+}
+
+
+#menu-12 .navbar-toggler {
+  color: #5bc0de;
+}
+#menu-12 .navbar-brand {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 24px;
+}
+#menu-12 .nav-link {
+  font-family: 'Oswald', sans-serif;
+}
+
+#dropdown-menu-2r .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2r .nav .link,
+#dropdown-menu-2r .dropdown-item {
+  font-size: 1em;
+  color: #000000;
+}
+#dropdown-menu-2r .navbar,
+#dropdown-menu-2r .dropdown-menu {
+  background: #ffffff;
+}
+#dropdown-menu-2r .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2r .dropdown-menu a:hover,
+#dropdown-menu-2r .dropdown-menu a:focus {
+  background: #f5f5f5;
+}
+#dropdown-menu-2r .navbar-toggler {
+  color: #000000;
+}
+#dropdown-menu-2r A {
+  font-family: 'Oswald', sans-serif;
+}
+#content5-2u P {
+  font-size: 14px;
+}
+
+#dropdown-menu-2z .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2z .nav .link,
+#dropdown-menu-2z .dropdown-item {
+  font-size: 1em;
+  color: #000000;
+}
+#dropdown-menu-2z .navbar,
+#dropdown-menu-2z .dropdown-menu {
+  background: #ffffff;
+}
+#dropdown-menu-2z .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2z .dropdown-menu a:hover,
+#dropdown-menu-2z .dropdown-menu a:focus {
+  background: #f5f5f5;
+}
+#dropdown-menu-2z .navbar-toggler {
+  color: #000000;
+}
+#dropdown-menu-2z A {
+  font-family: 'Oswald', sans-serif;
+}
+
+
+#dropdown-menu-35 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-35 .nav .link,
+#dropdown-menu-35 .dropdown-item {
+  font-size: 1em;
+  color: #000000;
+}
+#dropdown-menu-35 .navbar,
+#dropdown-menu-35 .dropdown-menu {
+  background: #ffffff;
+}
+#dropdown-menu-35 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-35 .dropdown-menu a:hover,
+#dropdown-menu-35 .dropdown-menu a:focus {
+  background: #f5f5f5;
+}
+#dropdown-menu-35 .navbar-toggler {
+  color: #000000;
+}
+#dropdown-menu-35 A {
+  font-family: 'Oswald', sans-serif;
+}
+#features1-39 H4 {
+  font-family: 'Lora', serif;
+}
+
+#dropdown-menu-3a .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-3a .nav .link,
+#dropdown-menu-3a .dropdown-item {
+  font-size: 1em;
+  color: #000000;
+}
+#dropdown-menu-3a .navbar,
+#dropdown-menu-3a .dropdown-menu {
+  background: #ffffff;
+}
+#dropdown-menu-3a .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-3a .dropdown-menu a:hover,
+#dropdown-menu-3a .dropdown-menu a:focus {
+  background: #f5f5f5;
+}
+#dropdown-menu-3a .navbar-toggler {
+  color: #000000;
+}
+#dropdown-menu-3a A {
+  font-family: 'Oswald', sans-serif;
+}
+
+#dropdown-menu-3j .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-3j .nav .link,
+#dropdown-menu-3j .dropdown-item {
+  font-size: 1em;
+  color: #000000;
+}
+#dropdown-menu-3j .navbar,
+#dropdown-menu-3j .dropdown-menu {
+  background: #ffffff;
+}
+#dropdown-menu-3j .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-3j .dropdown-menu a:hover,
+#dropdown-menu-3j .dropdown-menu a:focus {
+  background: #f5f5f5;
+}
+#dropdown-menu-3j .navbar-toggler {
+  color: #000000;
+}
+#dropdown-menu-3j A {
+  font-family: 'Oswald', sans-serif;
+}
+#header3-3s H3 {
+  font-size: 15px;
+}
+
+
+
+
+#dropdown-menu-3t .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-3t .nav .link,
+#dropdown-menu-3t .dropdown-item {
+  font-size: 1em;
+  color: #000000;
+}
+#dropdown-menu-3t .navbar,
+#dropdown-menu-3t .dropdown-menu {
+  background: #ffffff;
+}
+#dropdown-menu-3t .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-3t .dropdown-menu a:hover,
+#dropdown-menu-3t .dropdown-menu a:focus {
+  background: #f5f5f5;
+}
+#dropdown-menu-3t .navbar-toggler {
+  color: #000000;
+}
+#dropdown-menu-3t A {
+  font-family: 'Oswald', sans-serif;
+}
+#msg-box2-3x H2 {
+  text-align: left;
+}
+#msg-box2-3x B {
+  font-family: 'Droid Serif', serif;
+  font-size: 25px;
+  color: #ffffff;
+}
+#social-buttons2-3y .mbr-section-title {
+  font-size: 21px;
+  font-family: 'Bitter', serif;
+}
+#social-buttons2-3z .mbr-section-title {
+  font-size: 21px;
+  font-family: 'Bitter', serif;
+}
+
+
+#dropdown-menu-40 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-40 .nav .link,
+#dropdown-menu-40 .dropdown-item {
+  font-size: 1em;
+  color: #000000;
+}
+#dropdown-menu-40 .navbar,
+#dropdown-menu-40 .dropdown-menu {
+  background: #ffffff;
+}
+#dropdown-menu-40 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-40 .dropdown-menu a:hover,
+#dropdown-menu-40 .dropdown-menu a:focus {
+  background: #f5f5f5;
+}
+#dropdown-menu-40 .navbar-toggler {
+  color: #000000;
+}
+#dropdown-menu-40 A {
+  font-family: 'Oswald', sans-serif;
+}
+#msg-box2-45 H2 {
+  text-align: right;
+  color: #fff8e0;
+}
+#msg-box2-45 B {
+  color: #000000;
+}
+#msg-box2-41 H2 {
+  text-align: left;
+}
+#msg-box2-41 B {
+  font-family: 'Droid Serif', serif;
+  font-size: 25px;
+}
